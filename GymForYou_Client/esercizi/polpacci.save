@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Polpacci>
+
+  <riscaldamento>Jumping jacks 30s</riscaldamento>
+  <path_riscaldamento></path_riscaldamento>
+  <primo>Spinta polpacci in piedi x12</primo>
+  <path_primo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\spinta_con_i_polpacci_inpiedi.gif</path_primo>
+  <secondo>Pliè squat e sollevamento del tallone x10</secondo>
+  <path_secondo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\piegamenti_pliè_squat.gif</path_secondo>
+  <terzo>Spinta polpacci sul gradino x10</terzo>
+  <path_terzo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\spinta_polpacci_sul_gradino.gif</path_terzo>
+  <quarto>Spinta polpacci in piedi x10</quarto>
+  <path_quarto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\spinta_con_i_polpacci_inpiedi.gif</path_quarto>
+  <quinto>Plié squat e sollevamento del tallone x8</quinto>
+  <path_quinto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\piegamenti_pliè_squat.gif</path_quinto>
+  <sesto>Allungamenti Polpacci  40s (20s cad.)</sesto>
+  <path_sesto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\stretching_polpaccio.gif</path_sesto>
+  <settimo>Allungamenti in avanti  20s</settimo>
+  <path_settimo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\Allungamento_in_avanti.jpg</path_settimo>
+  
+</Polpacci>
+

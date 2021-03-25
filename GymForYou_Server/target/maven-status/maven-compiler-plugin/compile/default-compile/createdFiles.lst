@@ -1,0 +1,5 @@
+com\mycompany\gymforyou_server\JSON.class
+com\mycompany\gymforyou_server\Server.class
+Impostazioni_Server\Database.class
+Impostazioni_Server\Xmlpars.class
+Impostazioni_Server\FileLogger.class

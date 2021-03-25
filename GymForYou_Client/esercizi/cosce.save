@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cosce>
+
+  <riscaldamento>Jumping jacks 30s</riscaldamento>
+  <path_riscaldamento></path_riscaldamento>
+  <primo>Squat x16</primo>
+  <path_primo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\squat.gif</path_primo>
+  <secondo>Sollevamento laterale gambe x24</secondo>
+  <path_secondo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\sollevamneto_gamba_laterale.gif</path_secondo>
+  <terzo>Affondi x24</terzo>
+  <path_terzo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\Affondo.gif</path_terzo>
+  <quarto>Squat Sumo x12</quarto>
+  <path_quarto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\squat_sumo.gif</path_quarto>
+  <quinto>Wall sit  30s</quinto>
+  <path_quinto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\wall_sit.gif</path_quinto>
+  <sesto>Stretching quadricipiti  40s (20s cad.)</sesto>
+  <path_sesto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\stretching_coscia.jpg</path_sesto>
+  <settimo>Allungamenti Polpacci  20s (20s cad.)</settimo>
+  <path_settimo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\stretching_polpaccio.gif</path_settimo>
+  
+</Cosce> 

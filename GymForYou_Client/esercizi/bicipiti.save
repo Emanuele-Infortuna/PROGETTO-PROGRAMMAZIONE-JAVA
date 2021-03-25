@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bicipite>
+
+  <riscaldamento>Jumping jacks 30s</riscaldamento>
+  <path_riscaldamento></path_riscaldamento>
+  <primo>Piegamenti al muro x12</primo>
+  <path_primo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\piegamenti_al_muro.gif</path_primo>
+  <secondo>Plank diagonale x12</secondo>
+  <path_secondo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\plank_diagonale.gif</path_secondo>
+  <terzo>Pugni 00:30s</terzo>
+  <path_terzo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\pugni.gif</path_terzo>
+  <quarto>Narrow push-up x12</quarto>
+  <path_quarto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\narrow_push_up.gif</path_quarto>
+  <quinto>Triceps bow x14</quinto>
+  <path_quinto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\triceps_bow.gif</path_quinto>
+  <sesto>Allungamento bicipiti 40s (20s cad.)</sesto>
+  <path_sesto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\allungamento_bicipiti.jpg</path_sesto>
+  <settimo>Allungamento tricipiti 40s (20s cad.)</settimo>
+  <path_settimo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\stretching_tricipiti.gif</path_settimo>
+  
+</Bicipite>

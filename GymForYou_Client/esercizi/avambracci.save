@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Avambracci>
+
+  <riscaldamento>Jumping jacks 30s</riscaldamento>
+  <path_riscaldamento></path_riscaldamento>
+  <primo>Curl in piedi x12</primo>
+  <path_primo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\curl_in_piedi.gif</path_primo>
+  <secondo>Reverse curl x12</secondo>
+  <path_secondo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\reverse_curl.gif</path_secondo>
+  <terzo>Press pulse al petto 20s</terzo>
+  <path_terzo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\press_pulse_al_petto.gif</path_terzo>
+  <quarto>Wrist curl x12</quarto>
+  <path_quarto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\wristcurl.gif</path_quarto>
+  <quinto>Hammer curl x12</quinto>
+  <path_quinto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\hammer_curl.gif</path_quinto>
+  <sesto>Stretching bicipiti 40s (20s cad.)</sesto>
+  <path_sesto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\allungamento_bicipiti.jpg</path_sesto>
+  <settimo>Piegamento laterale seduti 40s</settimo>
+  <path_settimo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\piegamento_laterale_seduti.jpg</path_settimo>
+  
+</Avambracci>

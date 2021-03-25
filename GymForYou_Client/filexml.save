@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Utente>
+  <Genere>U</Genere>
+  <Email>emainfortuna</Email>
+  <Circonferenza_Vita>0</Circonferenza_Vita>
+  <Circonferenza_Collo>0</Circonferenza_Collo>
+  <Massa_Grassa>0</Massa_Grassa>
+  <Caviglia>0</Caviglia>
+  <Tipologia>Utente</Tipologia>
+  <Polso>0</Polso>
+  <Circonferenza_Fianchi>0</Circonferenza_Fianchi>
+  <Questionario>no</Questionario>
+  <Peso>55</Peso>
+  <Massa_Magra>0</Massa_Magra>
+  <Altezza>175</Altezza>
+  <Esito_Dottore>vuoto</Esito_Dottore>
+  <Nome>ema</Nome>
+  <Cognome>infortuna</Cognome>
+</Utente>

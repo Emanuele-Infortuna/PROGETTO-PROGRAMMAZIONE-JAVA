@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Petto>
+
+  <riscaldamento>Jumping jacks 30s</riscaldamento>
+  <path_riscaldamento></path_riscaldamento>
+  <primo>Piegamenti a braccia aperte x12</primo>
+  <path_primo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\piegamenti_a_braccia_aperte.gif</path_primo>
+  <secondo>Piegamenti in ginocchio x12</secondo>
+  <path_secondo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\piegamenti_in_ginocchio.gif</path_secondo>
+  <terzo>Push up and rotate x10</terzo>
+  <path_terzo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\pus_up_and_rotate.gif</path_terzo>
+  <quarto>Piegamenti Hindu x10</quarto>
+  <path_quarto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\piegamenti_hinduu.gif</path_quarto>
+  <quinto>Burpee x8</quinto>
+  <path_quinto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\burpee.gif</path_quinto>
+  <sesto>Allungamento in cobra 30s</sesto>
+  <path_sesto>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\allungamneto_in_cobra.gif</path_sesto>
+  <settimo>Allungamento del busto 30s</settimo>
+  <path_settimo>C:\Users\HP250G3\Documents\NetBeansProjects\GymForYou_Client\esercizi\immagini\allungamento_del_busto.jpg</path_settimo>
+  
+</Petto>
